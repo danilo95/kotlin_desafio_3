@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cars Motors</string>
+    <string name="type_your_email">Escribe tu email</string>
+    <string name="type_your_password">Escribe tu contraseña</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="no_estas_registrado_sign_up">No estas registrado?, Registrate!</string>
+    <string name="type_your_email2">Ingresa tu Email</string>
+    <string name="type_your_password2">Ingresa tu contraseña</string>
+    <string name="retype_your_password">Ingresa nuevamente tu contraseña</string>
+    <string name="sign_up">Registrate</string>
+    <string name="ya_posees_cuenta_sign_in">Ya posees cuenta? , Ingresa !</string>
+    <string name="ingresa_tus_hombres">Ingresa tus nombres</string>
+    <string name="ingreesa_tus_apellidos">Ingreesa tus apellidos</string>
+    <string name="ingress_tu_usuario">Ingress tu usuario</string>
+</resources>
